@@ -1,0 +1,6 @@
+map_reduce\CustomMinMaxTuple.class
+map_reduce\EmployeeStats.class
+config\DatabaseConfig.class
+map_reduce\EmployeeMinMaxCountReducer.class
+map_reduce\EmployeeMinMaxCountMapper.class
+streaming\SalaryStream.class
